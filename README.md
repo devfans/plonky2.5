@@ -8,6 +8,19 @@
 </p>
 
 
+## Prove plonky3 fib proof
+
+```bash
+
+cargo run --example prove_recursive --release
+
+```
+
+Proof size: 162608 bytes
+demo proved in 23800ms
+proof public_inputs: []
+
+
 ## Getting Started
 
 Generate plonky3 fibonacci(64) proof
